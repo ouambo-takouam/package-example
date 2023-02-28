@@ -1,6 +1,6 @@
 const axios = require('axios');
 
 axios
-	.get('https://www.google.com')
+	.get('https://www.wordpressbadass.com')
 	.then((response) => console.log(response))
 	.catch((error) => console.log(error));
